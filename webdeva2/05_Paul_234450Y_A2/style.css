@@ -187,6 +187,12 @@ nav ul li a {
     display: block;
 }
 
+/* image size in block style */
+.block-style img {
+   height:30%;
+   width:30%;
+}
+
 /* for centering content */
 .center-container {
     display: flex;
